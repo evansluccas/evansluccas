@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on creating a seemingless experience for digital insurance
+- 🌱 I’m currently learning how to code
+- 👯 I’m looking to collaborate on anything related to design, code, product management
+- 🤔 I’m looking for help with github
+- 💬 Ask me about how to create from 0 to 1
+- 📫 How to reach me: you can find me on evansluccas@gmail.com or in/luccasevans
+- ⚡ Fun fact: I learned english by playing Pokémon Fire Red on my GBA
+
 <!--
 **evansluccas/evansluccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
