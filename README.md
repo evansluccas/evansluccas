@@ -13,8 +13,7 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=evansluccas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" />
-
+<img align="right" width="340" src="https://github-stats-alpha.vercel.app/api?username=evansluccas&cc=202830&tc=ff7d4d&ic=ff7d4d&bc=202830" />
 ### `$ whoami`
 
 I'm a PM who can write code — dangerous combo.
