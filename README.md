@@ -13,6 +13,8 @@
 
 ---
 
+<!-- cc = background color / tc = type color / ic = icon color / bc = border color  -->
+
 <img align="right" width="340" src="https://github-stats-alpha.vercel.app/api?username=evansluccas&cc=202830&tc=ff7d4d&ic=ff7d4d&bc=202830" />
 ### `$ whoami`
 
